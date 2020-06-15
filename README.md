@@ -1,4 +1,4 @@
-# Youtube clone coding 
+# MovieApp clone coding 
 
 ##  사용언어
  -  JavaScript 
